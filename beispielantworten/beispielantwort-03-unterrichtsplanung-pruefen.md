@@ -1,3 +1,4 @@
+# Beispielantwort 3: Unterrichtsplanung prüfen
 ## 1. Zusammenfassung
 
 Die geplante Mathematikstunde in einer 1. Klasse behandelt das Thema „Größer – Kleiner – Gleich im Zahlenraum bis 20“. Im Zentrum stehen das Vergleichen von Zahlen sowie die Anwendung der Relationszeichen (>, <, =). Die Planung berücksichtigt die heterogene Lerngruppe (unterschiedliche Leistungsniveaus und sprachliche Voraussetzungen) und nutzt visuelle sowie handlungsorientierte Materialien (Plättchen, Krokodilsymbole).
